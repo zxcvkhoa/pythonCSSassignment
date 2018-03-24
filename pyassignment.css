@@ -1,0 +1,224 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:  sans-serif;
+}
+
+.logo,
+.searchbar,
+.list,
+.body,
+.getstarted,
+.applications {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.container {
+    height: 800px;
+    width: 950px;
+    background-color: rgb(255, 255, 255);
+
+} 
+.tophalf {
+    background-color: #245076;
+}
+.header {
+    width: 100%;
+    height: 15%;
+   
+}
+.middle {
+    width: 100%;
+    height: 330px;
+   
+}
+.bottom {
+    width: 100%;
+    height: 220px;
+    
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background-color: #245076;
+    padding-top: 50px;
+    color: #76A9D6;
+}
+.logo {
+    width: 30%;
+    height: 70%;
+    
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.searchbar {
+    width: 300px;
+    height: 50px;
+    background-color: #444444;
+    margin-left: 325px;
+    border-radius: 8px;
+}
+.navbar {
+    width: 850px;
+    height: 40px;
+    background-color: #487FAD;
+    margin-left: 90px;
+    display: block;
+    border-radius: 7px;
+    text-align: center;
+}
+.list {
+    width: 20%;
+    height: 70%;
+   
+    margin-left: 90px;
+}
+.body {
+    width: 60%;
+    height: 70%;
+    padding-top: 20px;
+    margin-left: 80px;
+}
+.getstarted {
+    width: 35%;
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+    margin-left: 85px;
+    margin-top: 20px;
+    padding: 20px;
+    
+  
+}
+.applications {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+}
+.footerlinks {
+    width: 60%;
+    height: 40%;
+ 
+    display: block;
+    margin-left: 160px;
+}
+.copyright{
+    width: 40%;
+    height: 30%;
+    margin-left: 365px;
+    margin-top: 5px;
+}
+.navbarlinks {
+    display: inline-block;
+}
+.footerlinks p {
+    display: inline-block;
+}
+.navbar p {
+    margin: 10px 40px 0 20px;
+    color: white;
+    font-size: 1.1em;
+}
+.listcontents {
+    text-align: center;
+    list-style-position: inside;
+    color: white;
+    text-decoration: underline;
+    
+
+}
+ul  {
+    padding-left:0;   
+}
+li {
+    margin: 5px 0;
+}
+.body p {
+    text-align: center;
+    
+}
+.poem {
+    color: #EBC738;
+    font-style: italic;
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+.poemsig {
+    color: white;
+}
+.history {
+    font-size: 0.85em;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-size: .9em;
+}
+.getstarted p {
+    font-size: .8em;
+    margin-top: 5px;
+}
+.getstarted ul li {
+    font-size: .8em;
+    text-align: center;
+    color: #96BDE0;
+}
+.applications p{
+    font-size: .8em;
+    margin-top: 5px;
+}
+.applications ul li {
+    font-size: .8em;
+    text-align: center;
+    color: #96BDE0;
+}
+.copyright p {
+    font-size: .5em;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.footerlinks p {
+    margin: 0 15px;
+}
+span {
+    color: #96BDE0;
+}
+.topnav {
+    margin-left: 40px;
+}
+.textsize {
+    margin-left: 100px;
+    color: white;
+    font-size: .80em;
+}
+.normal {
+    color: yellow;
+}
+.large {
+    color: yellow;
+}
+.sizebreak {
+    color: black;
+}
+.button {
+    border-radius: 2px;
+    background-color: #245076;
+    padding: 5px 10px;
+    color: white;
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
